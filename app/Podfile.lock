@@ -1,0 +1,45 @@
+PODS:
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AMScrollingNavbar (1.0.3)
+  - DBCamera (2.3.5):
+    - GPUImage (~> 0.1)
+  - GPUImage (0.1.6)
+  - MCSwipeTableViewCell (2.1.2)
+  - SCLAlertView-Objective-C (0.2.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.4.1)
+  - AMScrollingNavbar (~> 1.0.3)
+  - DBCamera (~> 2.3)
+  - MCSwipeTableViewCell (~> 2.1.2)
+  - SCLAlertView-Objective-C (~> 0.2.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 0aabc6fae66d6e5d039eeb21c315843c7aae51ab
+  AMScrollingNavbar: 5c72d3b9a768efb882b8a21d3ffca0aa18414ccb
+  DBCamera: 0095227e0d2d0292c5a2cc400fe75687120e6f29
+  GPUImage: cecb0830bb9428f50192042e3c7b53810f51388e
+  MCSwipeTableViewCell: 8e78ff197ab06ba7bfd5c938a00149de8a33afa9
+  SCLAlertView-Objective-C: 10b40a614f1aed59e6c88f0f102dd4cba771cef6
+
+COCOAPODS: 0.34.2
